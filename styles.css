@@ -1,0 +1,38 @@
+body{
+    background-color:rgb(245, 214, 214);
+}
+
+h1{  font-style: italic;
+    color:rgb(193, 124, 124);
+}
+
+h1:hover { 
+    color:rgb(120, 53, 53);
+}
+
+h2{ font-style: oblique;
+    color:rgb(121, 68, 68) ;
+
+}
+
+hr{
+    border-style: none;
+    border-top-style:dotted;
+    border-color:rgb(236, 120, 120);
+    border-width: 5px;
+    width: 40%;
+}
+
+#txt{
+    font-size: 20px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    font-family:monospace;
+    border: 2px solid maroon;
+    padding:4px; 
+    border-radius: 15px;
+    color:rgb(121, 68, 68);
+    
+    
+}
